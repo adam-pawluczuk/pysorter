@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# WingIDE project files
+*.wpr
+*.wpu
